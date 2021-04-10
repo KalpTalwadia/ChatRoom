@@ -18,7 +18,7 @@ A slack like chat room that allows you to create channels to discuss about thing
 # Login/Sign up screen:
 ![Login/Sign up screen](https://github.com/KalpTalwadia/ChatRoom/blob/main/screenshot/Screenshot%202021-04-10%20at%2010.49.40%20PM.png)
 
-## Running
+## Get Started
 1. Open 'src/firebase.js' file and enter firebase credentials
 2. Go to project directory and run:
 ```npm install```
